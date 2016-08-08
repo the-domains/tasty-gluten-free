@@ -6,9 +6,9 @@ color:
   saturation: 0.6219177397433668
   rhythmicContrast: 0.4025270107667893
   brandColors:
-    - '#FFFDFF'
-    - '#AC0000'
-    - '#DF8606'
-    - '#0A0000'
-    - '#174C00'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Tasty Gluten Free
