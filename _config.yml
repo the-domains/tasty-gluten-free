@@ -1,4 +1,3 @@
-layout_spectrum: 0.9998483336530626
 typography_spectrum: 0.34678785991854966
 color:
   brandStrength: 0.8356508067809045
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.9998483336530626
 name: Tasty Gluten Free
 title: Tasty Gluten Free
+description: Keep It Simple Sweetheart
